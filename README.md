@@ -1,4 +1,4 @@
-# 🤖 WhatsApp AI ChatBot (Local Version)
+# 🤖 WhatsApp AI ChatBot
 
 Bot WhatsApp yang membalas pesan menggunakan kecerdasan buatan (AI) dari [OpenRouter](https://openrouter.ai), dibangun menggunakan `whatsapp-web.js`.
 
