@@ -11,7 +11,6 @@ Dibangun menggunakan `whatsapp-web.js`, `axios`, dan `dotenv`.
 - 🧠 Balasan otomatis menggunakan AI dari OpenRouter (via API)
 - 💬 Bot membalas hanya pesan dari private chat (bukan grup)
 - 📎 Menampilkan status di terminal (siapa yang chat, status pemrosesan)
-- ✅ Menggunakan sistem `reply` agar balasan AI membalas langsung ke pesan sebelumnya
 
 ---
 
@@ -23,3 +22,5 @@ Dibangun menggunakan `whatsapp-web.js`, `axios`, dan `dotenv`.
 - [`qrcode-terminal`](https://www.npmjs.com/package/qrcode-terminal)
 
 ---
+
+- Powered By ChatGPT
